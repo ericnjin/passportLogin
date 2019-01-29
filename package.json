@@ -1,0 +1,19 @@
+{
+  "name": "passportlogin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericnjin/passportLogin.git"
+  },
+  "author": "Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericnjin/passportLogin/issues"
+  },
+  "homepage": "https://github.com/ericnjin/passportLogin#readme"
+}
